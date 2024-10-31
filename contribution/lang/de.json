@@ -10322,7 +10322,7 @@
 			"eng": "Anniversary Update!"
 		},
 		"desc1": {
-			"trans": "Techno-Dieb wird seltener im Dungeon spawnen. Wenn du Kisten öffnest, lassen sie bessere Beute fallen, einschließlich einer höheren Chance auf epische Gegenstände",
+			"trans": "Techno Dieb erscheint selten im Dungeon, wenn du Kisten öffnest. Sie lassen bessere Beute fallen, darunter eine höhere Chance auf epische Gegenstände",
 			"eng": "Techno Thief will spawn rarely in dungeon when you open crates, they drop better loots, including higher chance of epic items"
 		},
 		"desc2": {
@@ -10340,7 +10340,7 @@
 			"eng": "New Name"
 		},
 		"description": {
-			"trans": "Gib deinem Haustier einen neuen Namen ein:",
+			"trans": "Geben Sie einen neuen Namen für Ihr Haustier ein:",
 			"eng": "Enter new name for your pet"
 		},
 		"rename": {
@@ -10403,7 +10403,7 @@
 			"eng": "Do you like free to win games?"
 		},
 		"question2": {
-			"trans": "Wie findest du unser globales Buff- und globales Überspring-System?",
+			"trans": "Was halten Sie von unserem globalen Buff- und Skip-System?",
 			"eng": "How do you feel about our global buff and global skip system?"
 		},
 		"question3": {
@@ -10415,7 +10415,7 @@
 			"eng": "Don't ask me again"
 		},
 		"feedbackTitle": {
-			"trans": "Es tut mir leid das zu hören, lass mich bitte wissen, was ich verbessern kann:",
+			"trans": "Das tut mir leid. Bitte lassen Sie mich wissen, was ich verbessern kann:",
 			"eng": "Sorry to hear that, please let me know what I can improve:"
 		},
 		"feedbackPlaceholder": {
@@ -10482,7 +10482,7 @@
 				"trans": "Kicken",
 				"eng": "Kick",
 				"description": {
-					"trans": "Wirf andere Spieler aus deiner Gang.",
+					"trans": "Werfen Sie andere Spieler aus Ihrer Gang.",
 					"eng": "Kick other players from your gang."
 				}
 			},
@@ -10490,7 +10490,7 @@
 				"trans": "Verwalten",
 				"eng": "Manage",
 				"description": {
-					"trans": "Gib diesem Spieler, die Erlaubnis anderer Spieler zu verwalten",
+					"trans": "Diesem Spieler erlauben, die Berechtigungen anderer Spieler zu verwalten",
 					"eng": "Allow this player to manage permission of other players"
 				}
 			},
@@ -10498,7 +10498,7 @@
 				"trans": "Bekanntmachung senden",
 				"eng": "Send Notice",
 				"description": {
-					"trans": "Erlaubst du diesem Spieler, alle Gangmitglieder mitzuteilen",
+					"trans": "Erlaube diesem Spieler, Benachrichtigungen an alle Gangmitglieder zu senden",
 					"eng": "Allow this player to send notice to all gang members"
 				}
 			}
@@ -10508,7 +10508,7 @@
 				"vars": [
 					"amount"
 				],
-				"trans": "Du hast nicht genügend Bitcoin erforderlich: ${amount}",
+				"trans": "Du hast nicht genügend Bitcoin, erforderlich: ${amount}",
 				"eng": "You have insufficient Bitcoin, required: ${amount}"
 			},
 			"inviteCooldown": {
@@ -10821,7 +10821,7 @@
 			"vars": [
 				"petName"
 			],
-			"trans": "${petName} lebt derzeit auf der Straße, da in deiner Wohnung kein Platz ist",
+			"trans": "${petName} lebt derzeit aufgrund von Platzmangel in Ihrer Wohnung auf der Straße",
 			"eng": "${petName} is currently living on the street due to lack of space in your apartment"
 		},
 		"noPet": {
@@ -10844,7 +10844,7 @@
 				"eng": "Pet adoption is on cooldown"
 			},
 			"noSlot": {
-				"trans": "Eine Wohnung wird benötigt, um ein Haustier aufzunehmen",
+				"trans": "Sie müssen eine größere Wohnung mieten, um mehr Haustiere unterzubringen",
 				"eng": "You need to rent a bigger apartment to accommodate more pets"
 			},
 			"noItem": {
@@ -10869,7 +10869,7 @@
 				"eng": "Activate Adoption Buff"
 			},
 			"description": {
-				"trans": "Aktiviere, um allen Spielern zu erlauben, ein Haustier anzunehmen, solange der Buff aktiv ist",
+				"trans": "Aktivieren, um allen Spielern zu erlauben, ein Haustier zu adoptieren, während der Buff aktiv ist",
 				"eng": "Activate to allow all players to adopt a pet while buff is active"
 			},
 			"buttonText": {
@@ -11027,7 +11027,7 @@
 	},
 	"bulkCrafting": {
 		"cannotCraft": {
-			"trans": "Sie können nicht basteln, während Sie nicht untätig sind",
+			"trans": "Sie können keine Produkte herstellen, wenn Sie nicht im Leerlauf sind.",
 			"eng": "You cannot craft while not idle"
 		}
 	},
@@ -11175,15 +11175,15 @@
 				"vars": [
 					"playerName"
 				],
-				"trans": "Du hast einen Street Cred von ${playerName} erhalten",
+				"trans": "Du hast einen Straßencredit von ${playerName} erhalten",
 				"eng": "You have received a street cred from ${playerName}"
 			},
 			"success": {
-				"trans": "Du hast Daily Street Cred vergeben.",
+				"trans": "Du hast Täglichen Straßencredit vergeben.",
 				"eng": "You have given daily street cred."
 			},
 			"notEnoughLevelError": {
-				"trans": "Du musst Level 10 oder höher sein, um Player Street Cred zu geben",
+				"trans": "Du musst Level 10 oder höher sein, um Spielern Straßencredits zu geben",
 				"eng": "You must be level 10 or above to give player street cred"
 			},
 			"cooldownError": {
@@ -11236,7 +11236,7 @@
 				"cred",
 				"percent"
 			],
-			"trans": "${playerName} hat zum Kalibrierungszug-Fortschritt beigetragen, gib der Legende etwas Straßenkredit! [aktuelles Guthaben: ${percent}%] ${cred}",
+			"trans": "${playerName} hat zum Kalibrierungszug-Fortschritt beigetragen, gib der Legende ein paar Straßencredits! [aktuelles Guthaben: ${percent}%] ${cred}",
 			"eng": "${playerName} has contributed to calibration train progress, give the legend some street cred! [current fund: ${percent}%] ${cred}"
 		}
 	},
@@ -11262,7 +11262,7 @@
 				"cred",
 				"percent"
 			],
-			"trans": "${playerName} hat zum globalen Party-Fortschritt beigetragen, gib der Legende etwas Straßen-Cred! [aktuelles Guthaben: ${percent}%] ${cred}",
+			"trans": "${playerName} hat zum globalen Party-Fortschritt beigetragen, gib der Legende ein paar Straßencredits! [aktuelles Guthaben: ${percent}%] ${cred}",
 			"eng": "${playerName} has contributed to global party progress, give the legend some street cred! [current fund: ${percent}%] ${cred}"
 		}
 	},
@@ -11305,7 +11305,7 @@
 				"skipTime",
 				"credButton"
 			],
-			"trans": "${playerName} hat Global Time Skip verwendet. Alle Online -Player, die derzeit AFK -Task (${playerCount} -Spieler) ausführen, werden automatisch um über ${skipTime} Minuten übersprungen. Der Legende ein paar Creds geben? ${credButton}",
+			"trans": "${playerName} hat Global Time Skip verwendet. Alle Online -Player, die derzeit AFK -Task (${playerCount} -Spieler) ausführen, werden automatisch um über ${skipTime} Minuten übersprungen. Der Legende ein paar Straßencredits geben? ${credButton}",
 			"eng": "${playerName} has used Global Time Skip, all online players currently performing AFK task (${playerCount} players) will automatically time skip by ${skipTime} minutes. Give the legend some creds? ${credButton}"
 		},
 		"firstTimeAnnouncement": {
@@ -11324,7 +11324,7 @@
 					"player",
 					"cred"
 				],
-				"trans": "${player} hat den Kalibrierungssicherheitsbuff aktiviert, fehlgeschlagene Kalibrierungen führen nicht zur Zerstörung des Gegenstands, solange der Buff aktiv ist. Gib dieser Legende etwas Street Cred! ${cred}",
+				"trans": "${player} hat den Kalibrierungssicherheitsbuff aktiviert, fehlgeschlagene Kalibrierungen führen nicht zur Zerstörung des Gegenstands, solange der Buff aktiv ist. Gib dieser Legende ein paar Straßencredits! ${cred}",
 				"eng": "${player} has activated calibration safety buff, failed calibration will not result in destruction of the item while buff is active, give this legend some street cred! ${cred}"
 			}
 		},
@@ -11350,7 +11350,7 @@
 					"percent",
 					"cred"
 				],
-				"trans": "${player} hat den Kalibrierungs-Buff aktiviert, Erfolgschance um ${percent}% erhöht, gib dieser Legende etwas Straßen-Cred! ${cred}",
+				"trans": "${player} hat den Kalibrierungs-Buff aktiviert, Erfolgschance um ${percent}% erhöht, gib dieser Legende ein paar Straßencredits! ${cred}",
 				"eng": "${player} has activated calibration buff, success chance increased by ${percent}, give this legend some street cred! ${cred}"
 			}
 		}
